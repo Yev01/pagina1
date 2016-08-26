@@ -1,2 +1,4 @@
 # pagina1
-es una prueba
+
+Creo esta pagina para probar el uso de GitHub
+
